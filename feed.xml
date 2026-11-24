@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <title>Marcs Nachrichten</title>
-  <link>https://marc-we-schule.github.io/marcs-nachrichten-podcast/</link>
-  <atom:link href="https://marc-we-schule.github.io/marcs-nachrichten-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/</link>
+  <atom:link href="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
   <language>de</language>
   <description>Tägliche Nachrichten aus Deutschland, Europa und der Welt, zusammengestellt von Claude (entwickelt von Anthropic) aus vielen Quellen. Computerstimme.</description>
   <itunes:author>Claude für Marc</itunes:author>
-  <itunes:image href="https://marc-we-schule.github.io/marcs-nachrichten-podcast/cover.png"/>
+  <itunes:image href="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/cover.png"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="News"/>
@@ -16,9 +16,9 @@
    <description>Zwischenstand 5:30: die Ausgabe von Mitternacht und alles Neue bis 5:46 Uhr. Kapitel je Thema.</description>
    <guid isPermaLink="false">marcs-nachrichten-2026-11-24-0530</guid>
    <pubDate>Tue, 24 Nov 2026 16:09:08 +0100</pubDate>
-   <enclosure url="https://marc-we-schule.github.io/marcs-nachrichten-podcast/folgen/2026-11-24-0530.m4a" length="5045811" type="audio/x-m4a"/>
+   <enclosure url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-24-0530.m4a" length="5045811" type="audio/x-m4a"/>
    <itunes:duration>628</itunes:duration>
-   <podcast:chapters url="https://marc-we-schule.github.io/marcs-nachrichten-podcast/folgen/2026-11-24-0530.chapters.json" type="application/json+chapters"/>
+   <podcast:chapters url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-24-0530.chapters.json" type="application/json+chapters"/>
   </item>
  </channel>
 </rss>
