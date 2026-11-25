@@ -12,6 +12,15 @@
   <itunes:block>Yes</itunes:block>
   <itunes:category text="News"/>
   <item>
+   <title>Mittwoch, 25. November, 5:30 Uhr</title>
+   <description>Die Ausgabe von Mitternacht und alles Neue bis 5:46 Uhr: Gewalt gegen Frauen, Haushalt, Nvidia, Börsen in Asien, Salomonen, Ukraine, Nahost. Kapitel je Thema.</description>
+   <guid isPermaLink="false">marcs-nachrichten-2026-11-25-0530</guid>
+   <pubDate>Wed, 25 Nov 2026 05:49:39 +0100</pubDate>
+   <enclosure url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-25-0530.m4a" length="4961468" type="audio/x-m4a"/>
+   <itunes:duration>614</itunes:duration>
+   <podcast:chapters url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-25-0530.chapters.json" type="application/json+chapters"/>
+  </item>
+  <item>
    <title>Dienstag, 24. November, 5:30 Uhr</title>
    <description>Zwischenstand 5:30: die Ausgabe von Mitternacht und alles Neue bis 5:46 Uhr. Kapitel je Thema.</description>
    <guid isPermaLink="false">marcs-nachrichten-2026-11-24-0530</guid>
