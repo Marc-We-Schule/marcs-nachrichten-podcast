@@ -12,6 +12,15 @@
   <itunes:block>Yes</itunes:block>
   <itunes:category text="News"/>
   <item>
+   <title>Freitag, 27. November, 5:30 Uhr</title>
+   <description>Die Ausgabe von Mitternacht und alles Neue bis 5:46 Uhr: Metall-Tarif, Terrorverdacht Köln, EU-Gipfel, Kuwait, Ukraine, Neuseeland, Klima. Kapitel je Thema.</description>
+   <guid isPermaLink="false">marcs-nachrichten-2026-11-27-0530</guid>
+   <pubDate>Fri, 27 Nov 2026 05:48:56 +0100</pubDate>
+   <enclosure url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-27-0530.m4a" length="3180914" type="audio/x-m4a"/>
+   <itunes:duration>401</itunes:duration>
+   <podcast:chapters url="https://raw.githubusercontent.com/Marc-We-Schule/marcs-nachrichten-podcast/main/folgen/2026-11-27-0530.chapters.json" type="application/json+chapters"/>
+  </item>
+  <item>
    <title>Donnerstag, 26. November, 5:30 Uhr</title>
    <description>Die Ausgabe von Mitternacht und alles Neue bis 5:45 Uhr: US-Zölle, Bundestag, Terror 18, Ukraine, Netanjahu, Nordkoreas Atompläne, Jemen. Kapitel je Thema.</description>
    <guid isPermaLink="false">marcs-nachrichten-2026-11-26-0530</guid>
